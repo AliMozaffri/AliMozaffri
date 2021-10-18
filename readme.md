@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliMozaffri
-- 👀 I’m interested in ... python & Django
-- 🌱 I’m currently learning ... Django
+- 👀 I’m interested in  python & Django
+- 🌱 I’m currently learning  Django
 - 💞️ I’m looking to collaborate on downloader
 - 📫 How to reach me  Ali_larox@yahoo.com
 
