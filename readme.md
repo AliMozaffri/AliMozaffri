@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AliMozaffri
 - 👀 I’m interested in  python & Django
-- 🌱 I’m currently learning  Django
 - 📫 How to reach me  A.mozaffari2000@yahoo.com
 
 <!---
