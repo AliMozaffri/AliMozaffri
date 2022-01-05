@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AliMozaffri
+- 👋 Hi, I’m Ali Mozaffari
 - 👀 I’m interested in  python & Django
 - 📫 How to reach me  A.mozaffari2000@yahoo.com
 
