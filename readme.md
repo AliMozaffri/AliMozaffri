@@ -35,7 +35,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ali/ali/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/ali/ali/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
