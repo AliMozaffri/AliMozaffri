@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%814827&lines=Hello+there,+This+is+Ali+Mozaffari.)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%814827&lines=Hello+there,+This+is+Ali+Mozaffari.)
 <p align="center"> 
     <img src="https://activity-graph.herokuapp.com/graph?username=AliMozaffri&theme=redical&hide_border=true">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Alimozaffri&theme=radical&hide_border=true&hide_title=true">
