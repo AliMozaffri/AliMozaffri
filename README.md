@@ -1,9 +1,5 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false&username=alimozaffri" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&username=ali" height="150" alt="languages graph"  />
-</div>
-
-###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%814827&lines=Hello+there,+This+is+Ali+Mozaffari.)](https://git.io/typing-svg)
+[![Ali's github activity graph](https://activity-graph.herokuapp.com/graph?username=AliMozaffri&custom_title=%20&bg_color=000000&color=D0B49F&line=EA9130&point=814827&area=true&hide_border=true)](https://github.com/alimozaffri)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
@@ -12,8 +8,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
 </div>
-
-###
 
 <div align="left">
   <a href="a.mzaffari2000@gmail.com" target="_blank">
@@ -26,9 +20,4 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
