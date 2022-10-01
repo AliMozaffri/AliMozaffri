@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%814827&lines=Hello+there,+This+is+Ali+Mozaffari.)](https://git.io/typing-svg)
-[![Ali's github activity graph](https://activity-graph.herokuapp.com/graph?username=AliMozaffri&custom_title=%20&bg_color=000000&color=D0B49F&line=EA9130&point=814827&area=true&hide_border=true)](https://github.com/alimozaffri)
 <p align="center"> 
+    <img src="https://activity-graph.herokuapp.com/graph?username=AliMozaffri&theme=redical&hide_border=true">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Alimozaffri&theme=radical&hide_border=true&hide_title=true">
 </p>
 
